@@ -9,7 +9,7 @@ export function Footer() {
                 <h2 className="text-3xl font-japanese font-bold text-white mb-6">Contact</h2>
                 <p className="text-slate-400 mb-8 font-japanese">
                     出演依頼・お問い合わせは<br />
-                    所属事務所までお願いいたします。
+                    インスタグラムまでお願いいたします。
                 </p>
 
                 <a
