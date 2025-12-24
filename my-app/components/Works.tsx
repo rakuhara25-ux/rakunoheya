@@ -10,7 +10,7 @@ const works = [
         group: "劇団遊学生",
         role: "出演",
         quote: "「オイラは河童じゃない！」",
-        year: "2023",
+        year: "2025",
         color: "from-amber-200 to-amber-100",
         image: "/gold smoke.jpg", // Swapped for variety
         link: "https://yugakusei.org/", // Dummy data
@@ -20,7 +20,7 @@ const works = [
         group: "全方向外交",
         role: "出演",
         quote: "「帰ろうか」",
-        year: "2024",
+        year: "2025",
         color: "from-indigo-200 to-indigo-100",
         image: "/wonder land.jpg", // Dummy data
         link: "https://www.instagram.com/zenhokogaiko.add/", // Dummy data
