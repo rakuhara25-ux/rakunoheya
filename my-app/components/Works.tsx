@@ -20,7 +20,7 @@ const works = [
         group: "全方向外交",
         role: "出演",
         quote: "「帰ろうか」",
-        year: "2025",
+        year: "2026",
         color: "from-indigo-200 to-indigo-100",
         image: "/wonder land.jpg", // Dummy data
         link: "https://www.instagram.com/zenhokogaiko.add/", // Dummy data
